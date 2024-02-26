@@ -1,0 +1,512 @@
+{ "signin": {
+    "id": 0, 
+    "first_name": "John", 
+    "last_name": "Doe0", 
+    "balance": 4000 
+},
+  "topstock": {"data": [
+    {
+      "Ticker": "REGN",
+      "Name": "Regeneron Pharmaceuticals",
+      "Appreciation": 1544.003567
+    },
+    {
+      "Ticker": "TSLA",
+      "Name": "Tesla",
+      "Appreciation": 1217.595308
+    },
+    {
+      "Ticker": "ULTA",
+      "Name": "Ulta Beauty",
+      "Appreciation": 996.795149
+    },
+    {
+      "Ticker": "MNST",
+      "Name": "Monster Beverage",
+      "Appreciation": 675.687410
+    },
+    {
+      "Ticker": "INCY",
+      "Name": "Incyte",
+      "Appreciation": 626.239316
+    },
+    {
+      "Ticker": "AVGO",
+      "Name": "Broadcom",
+      "Appreciation": 617.601810
+    },
+    {
+      "Ticker": "CHTR",
+      "Name": "Charter Communications",
+      "Appreciation": 557.793103
+    },
+    {
+      "Ticker": "AMZN",
+      "Name": "Amazon.com",
+      "Appreciation": 526.064764
+    },
+    {
+      "Ticker": "ALGN",
+      "Name": "Align Technology",
+      "Appreciation": 491.240364
+    },
+    {
+      "Ticker": "NFLX",
+      "Name": "Netflix",
+      "Appreciation": 462.873900
+    },
+    {
+      "Ticker": "ALXN",
+      "Name": "Alexion Pharmaceuticals",
+      "Appreciation": 401.600640
+    },
+    {
+      "Ticker": "NVDA",
+      "Name": "NVIDIA",
+      "Appreciation": 400.948767
+    },
+    {
+      "Ticker": "FISV",
+      "Name": "Fiserv",
+      "Appreciation": 379.130435
+    },
+    {
+      "Ticker": "DLTR",
+      "Name": "Dollar Tree",
+      "Appreciation": 356.673114
+    },
+    {
+      "Ticker": "SIRI",
+      "Name": "Sirius XM",
+      "Appreciation": 327.083333
+    },
+    {
+      "Ticker": "CDNS",
+      "Name": "Cadence Design Systems",
+      "Appreciation": 315.934959
+    },
+    {
+      "Ticker": "LULU",
+      "Name": "lululemon athletica",
+      "Appreciation": 294.338652
+    },
+    {
+      "Ticker": "CTAS",
+      "Name": "Cintas",
+      "Appreciation": 286.904762
+    },
+    {
+      "Ticker": "CMCSA",
+      "Name": "Comcast Common Stock",
+      "Appreciation": 262.634989
+    },
+    {
+      "Ticker": "SGEN",
+      "Name": "Seattle Genetics",
+      "Appreciation": 248.688525
+    },
+    {
+      "Ticker": "AMGN",
+      "Name": "Amgen",
+      "Appreciation": 208.848207
+    },
+    {
+      "Ticker": "GOOGL",
+      "Name": "Alphabet",
+      "Appreciation": 207.583456
+    },
+    {
+      "Ticker": "EBAY",
+      "Name": "eBay",
+      "Appreciation": 195.299647
+    },
+    {
+      "Ticker": "VRSK",
+      "Name": "Verisk Analytics",
+      "Appreciation": 189.414183
+    },
+    {
+      "Ticker": "CPRT",
+      "Name": "Copart",
+      "Appreciation": 179.642058
+    }
+  ]},
+  "tradedstock": [
+    {
+      "Ticker": "AAPL",
+      "Name": "Apple",
+      "TotalVolume": 139576485800
+    },
+    {
+      "Ticker": "SIRI",
+      "Name": "Sirius XM",
+      "TotalVolume": 78569614500
+    },
+    {
+      "Ticker": "CSCO",
+      "Name": "Cisco Systems",
+      "TotalVolume": 64190237400
+    },
+    {
+      "Ticker": "INTC",
+      "Name": "Intel",
+      "TotalVolume": 62460371600
+    },
+    {
+      "Ticker": "MU",
+      "Name": "Micron Technology",
+      "TotalVolume": 47693933000
+    },
+    {
+      "Ticker": "FB",
+      "Name": "Facebook",
+      "TotalVolume": 46347563300
+    },
+    {
+      "Ticker": "NFLX",
+      "Name": "Netflix",
+      "TotalVolume": 44765245800
+    },
+    {
+      "Ticker": "CMCSA",
+      "Name": "Comcast Common Stock",
+      "TotalVolume": 44062522200
+    },
+    {
+      "Ticker": "EBAY",
+      "Name": "eBay",
+      "TotalVolume": 38033257900
+    },
+    {
+      "Ticker": "AMD",
+      "Name": "Advanced Micro Devices",
+      "TotalVolume": 32217921400
+    }
+  ],
+  "volatilestock": [
+    {
+      "Ticker": "REGN",
+      "Name": "Regeneron Pharmaceuticals",
+      "Volatility": 6.866425851526327
+    },
+    {
+      "Ticker": "GOOGL",
+      "Name": "Alphabet",
+      "Volatility": 5.2370861612222415
+    },
+    {
+      "Ticker": "AMZN",
+      "Name": "Amazon.com",
+      "Volatility": 4.843755580138035
+    },
+    {
+      "Ticker": "TSLA",
+      "Name": "Tesla",
+      "Volatility": 4.224886157366163
+    },
+    {
+      "Ticker": "ALXN",
+      "Name": "Alexion Pharmaceuticals",
+      "Volatility": 2.574841694646785
+    },
+    {
+      "Ticker": "INCY",
+      "Name": "Incyte",
+      "Volatility": 2.132842909711655
+    },
+    {
+      "Ticker": "CHTR",
+      "Name": "Charter Communications",
+      "Volatility": 2.1207120425054438
+    },
+    {
+      "Ticker": "WYNN",
+      "Name": "Wynn Resorts Limited",
+      "Volatility": 2.076153269894539
+    },
+    {
+      "Ticker": "ULTA",
+      "Name": "Ulta Beauty",
+      "Volatility": 1.8015220674850028
+    },
+    {
+      "Ticker": "NFLX",
+      "Name": "Netflix",
+      "Volatility": 1.6670766837872542
+    },
+    {
+      "Ticker": "AMGN",
+      "Name": "Amgen",
+      "Volatility": 1.5844447816364517
+    },
+    {
+      "Ticker": "AVGO",
+      "Name": "Broadcom",
+      "Volatility": 1.5732137052761956
+    },
+    {
+      "Ticker": "SPLK",
+      "Name": "Splunk",
+      "Volatility": 1.3066281230841694
+    },
+    {
+      "Ticker": "AAPL",
+      "Name": "Apple",
+      "Volatility": 1.0037896295069164
+    },
+    {
+      "Ticker": "FB",
+      "Name": "Facebook",
+      "Volatility": 0.9957305752460939
+    },
+    {
+      "Ticker": "LULU",
+      "Name": "lululemon athletica",
+      "Volatility": 0.9519643729713717
+    },
+    {
+      "Ticker": "SGEN",
+      "Name": "Seattle Genetics",
+      "Volatility": 0.7919605744185317
+    },
+    {
+      "Ticker": "DLTR",
+      "Name": "Dollar Tree",
+      "Volatility": 0.7512303784491994
+    },
+    {
+      "Ticker": "ANSS",
+      "Name": "ANSYS",
+      "Volatility": 0.7444712865228017
+    },
+    {
+      "Ticker": "LRCX",
+      "Name": "Lam Research",
+      "Volatility": 0.7343354420361731
+    },
+    {
+      "Ticker": "ALGN",
+      "Name": "Align Technology",
+      "Volatility": 0.7207035717519326
+    },
+    {
+      "Ticker": "LBRDA",
+      "Name": "Liberty Broadband Common Stock",
+      "Volatility": 0.6847104479715562
+    },
+    {
+      "Ticker": "VRSK",
+      "Name": "Verisk Analytics",
+      "Volatility": 0.5890418837408167
+    },
+    {
+      "Ticker": "MAR",
+      "Name": "Marriott International",
+      "Volatility": 0.5776420270430951
+    },
+    {
+      "Ticker": "CTAS",
+      "Name": "Cintas",
+      "Volatility": 0.5692708987971203
+    }
+  ],
+  "nopagevalue": {
+    "name": "Apple",
+    "market_cap": 807491700000
+  },
+  "valuecompanies": [
+    {
+      "name": "Intel",
+      "market_cap": 225484420000
+    },
+    {
+      "name": "Cisco Systems",
+      "market_cap": 212883787916
+    },
+    {
+      "name": "Comcast Common Stock",
+      "market_cap": 166419641934
+    },
+    {
+      "name": "iShares Core S&P 500",
+      "market_cap": 155848590000
+    },
+    {
+      "name": "Netflix",
+      "market_cap": 155747817508
+    }
+  ],
+  "pricetrend": [
+    {
+      "date": "2010-07-12T04:00:00.000Z",
+      "close": 36.76
+    },
+    {
+      "date": "2010-07-13T04:00:00.000Z",
+      "close": 35.97
+    },
+    {
+      "date": "2010-07-14T04:00:00.000Z",
+      "close": 36.10
+    },
+    {
+      "date": "2010-07-15T04:00:00.000Z",
+      "close": 35.92
+    },
+    {
+      "date": "2010-07-16T04:00:00.000Z",
+      "close": 35.70
+    },
+    {
+      "date": "2010-07-19T04:00:00.000Z",
+      "close": 35.08
+    },
+    {
+      "date": "2010-07-20T04:00:00.000Z",
+      "close": 35.98
+    }
+  ],
+  "stocknews": {
+    "Headline": "Tech Stocks And FAANGS Strong Again To Start Day As Market Awaits Fed",
+    "Date": "2020-06-10T04:00:00.000Z"
+  },
+  "profitandloss": 
+    {
+      "year": 2014,
+      "quarter": "Q1",
+      "Revenue": 45646000000.00,
+      "GrossProfit": 17947000000.00,
+      "OperatingIncome": 13593000000.00,
+      "NetIncome": 10223000000.00
+    }
+  ,
+  "balancesheet":[
+    {
+      "Year": 2014,
+      "Quarter": "Q1",
+      "TotalAssets": 205989000000.00,
+      "CashAndCashEquivalents": 18949000000.00,
+      "TotalLiabilitiesAndEquity": 205989000000.00,
+      "TotalEquity": 120179000000.00
+    }
+  ],
+  "marketshare": 
+    {
+      "Industry": "Computer Hardware",
+      "Ticker": "AAPL",
+      "MarketSharePercentage": 97.410565
+    }
+  ,
+  "userworth": {
+    "first_name": "John",
+    "last_name": "Doe0",
+    "worth": 15750.81
+  },
+  "networth": {
+    "date": "1984-05-23T04:00:00.000Z",
+    "NetWorth": 1.62
+  }
+  ,
+  "newsrecs": [
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "Tesla's Stock Closes At All-Time High As Musk Pushes Semi, Employees Reportedly Test Positive For COVID-19",
+      "ticker": "TSLA"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "Synopsys Acquires Qualtera; Terms Not Disclosed",
+      "ticker": "SNPS"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "Key Tesla Executive Behind Shanghai Gigafactory Leaves Company After 5 Years",
+      "ticker": "TSLA"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "Hearing Wedbush Raises Tesla Base Price Target From $800 To $1,000; Unconfirmed",
+      "ticker": "TSLA"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "Tesla's Musk Says It's Time To Bring Tesla Semi To Volume Production; Says Production Of Battery And Powertrain Will Take Place At Nevada Factory, Says Most Of Other Works Probably Occurring In Other States",
+      "ticker": "TSLA"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "Wedbush Raises Tesla Price Target From $800 To $1,000; Says With Model 3 Demand Ramping In China, US/Europe Lockdown Easing And Battery Developments, Stock 'likely has room to run further'",
+      "ticker": "TSLA"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "Electrek Reports Tesla VP Of Business Development In China Has Left Co.",
+      "ticker": "TSLA"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "Tesla shares are trading higher after Wedbush raised its price target on the company's stock from $800 to $1000.",
+      "ticker": "TSLA"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "Musk Says It's Time To Ramp Production Of Tesla Semi: Report",
+      "ticker": "TSLA"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "Wedbush Says Tesla Has 'Game Changing' Developments, Lifts Target To $1,000",
+      "ticker": "TSLA"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "Wedbush Maintains Neutral on Tesla, Raises Price Target to $1000",
+      "ticker": "TSLA"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "'Tesla factory workplace safety is 5% better than industry average for manufacturers & improving fast' -Tweet From Tesla's Elon Musk",
+      "ticker": "TSLA"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "'Tesla hacker unlocks Performance upgrade and acceleration boost at a discount' -Elektrek Report",
+      "ticker": "TSLA"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "Tesla's Journey To $1,000 In 2020",
+      "ticker": "TSLA"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "GM On Track To Spend $20B On EV And AV Development By 2025",
+      "ticker": "TSLA"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "Tesla Shares Mark Session And New All-Time High At $1,000",
+      "ticker": "TSLA"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "As Expected: Fed Keeps Rates Unchanged and Forecasts Years Of Dovish Policy",
+      "ticker": "NFLX"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "Fox News Host Tucker Carlson Leaves Conservative News Website Daily Caller; Carlson Sold Stake To Daily Caller Co-Founder, Publisher Neil Patel",
+      "ticker": "FOXA"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "Shares of several communication companies are trading lower amid market weakness as investors await today's Federal Reserve decision and update on the state of the economy. Markets have sold off over the past few sessions following a recent surge.",
+      "ticker": "FOXA"
+    },
+    {
+      "date": "2020-06-10T04:00:00.000Z",
+      "Headline": "Hearing JP Morgan Reiterates Overweight Rating And $535 Price Target On Netflix, Saying  Daily User Growth Remains Elevated & Stable For About 6 Weeks And Download Growth Remains Elevated From Pre-pandemic Levels; Unconfirmed",
+      "ticker": "NFLX"
+    }
+  ]
+}
